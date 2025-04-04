@@ -139,4 +139,3 @@ ggplot(tabla_datos, aes(x = Salario)) +
 #__________________________________
 ## https://github.com/GangSonic/Prueba_rep.git
 
-###verificacion
